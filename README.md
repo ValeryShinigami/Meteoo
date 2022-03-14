@@ -3,9 +3,9 @@ Projet Meteoo:
 Stack: JAVA, Maven, API OpenWeather, JAR okhttp et okio, 
 Maven dependance:
  <dependency>
-    <groupId>com.googlecode.json-simple</groupId>
-    <artifactId>json-simple</artifactId>
-    <version>1.1.1</version>
+    com.googlecode.json-simple
+    json-simple
+    1.1.1
 </dependency>
 l'objectif étant de récuperer les données méteo d'une API, les données sous forme JSON
 et de pouvoir les afficher en console.
