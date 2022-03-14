@@ -2,11 +2,8 @@
 Projet Meteoo:
 Stack: JAVA, Maven, API OpenWeather, JAR okhttp et okio, 
 Maven dependance:
- <dependency>
-    com.googlecode.json-simple
-    json-simple
-    1.1.1
-</dependency>
+![Capture d’écran 2022-03-14 à 13 21 53](https://user-images.githubusercontent.com/77153796/158171207-51e59c77-edd6-4fb0-885d-fa71cb42d99e.png)
+
 l'objectif étant de récuperer les données méteo d'une API, les données sous forme JSON
 et de pouvoir les afficher en console.
 
